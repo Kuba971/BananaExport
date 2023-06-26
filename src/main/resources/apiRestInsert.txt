@@ -1,0 +1,22 @@
+{
+  "deliveryDate": "2020-04-23T18:25:43.511Z",
+  "bananaWeight": 300,
+  "price": 0,
+  "client": {
+    "firstName": "Robert",
+    "lastName": "Dupond",
+    "adress": "1 Rue de Paris",
+    "zipcode": "93210",
+    "town": "Saint-Denis",
+    "country": "France"
+  }
+}
+
+{
+  "firstName": "Robert",
+  "lastName": "Dupond",
+  "adress": "1 Rue de Paris",
+  "zipcode": "93210",
+  "town": "Saint-Denis",
+  "country": "France"
+}
